@@ -1,0 +1,28 @@
+name: Visuals by Najee
+favicon: null
+layout_spectrum: 0.2918822562787682
+typography_spectrum: 0.6314074236433953
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.10389575851149857
+  lightness: 0.1632100655697286
+  saturation: 0.6689613298512995
+  rhythmicContrast: 0.4040057519450784
+purpose: []

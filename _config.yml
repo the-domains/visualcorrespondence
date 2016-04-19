@@ -1,28 +1,40 @@
-name: Visuals by Najee
-favicon: null
-layout_spectrum: 0.2918822562787682
-typography_spectrum: 0.6314074236433953
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.10389575851149857
-  lightness: 0.1632100655697286
-  saturation: 0.6689613298512995
-  rhythmicContrast: 0.4040057519450784
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.4183673
+  brandStrength: 0.6299677
+  lightness: 0.5247046
+  brandColors:
+    - '#EFEFEF'
+    - '#222222'
+    - '#5D6A73'
+    - '#98AAB8'
+    - '#804245'
+  rhythmicContrast: 0.604189
+typography_spectrum: 0.5461869
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.2918822562787682
+favicon: null
+name: Visuals by Najee

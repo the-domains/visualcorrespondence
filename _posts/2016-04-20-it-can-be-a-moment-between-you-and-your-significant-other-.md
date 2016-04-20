@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'My mission is to provide a visual platform that showcases the passions of people. I create the ability for people to relive favorite memories and pasttimes through creative photographic images and media productions. There is a timeless connection that exist between everyone, our emotions, and our environment that can be captured and enjoyed for a lifetime. '
-datePublished: '2016-04-20T14:32:24.712Z'
-dateModified: '2016-04-20T14:25:20.921Z'
+description: 'My mission is to provide a visual platform that showcases the passions of people. I desire to provide the ability for people to relive favorite memories and pasttimes through creative photographic images and media productions. There is a timeless connection that exist between everyone, our emotions, and our environment that can be captured and enjoyed for a lifetime. '
+datePublished: '2016-04-20T14:41:22.556Z'
+dateModified: '2016-04-20T14:41:02.499Z'
 title: ''
 author:
   - name: ''
@@ -24,4 +24,4 @@ url: afb422e1-094b-4234-8cdf-15a2eb81dd32/index.html
 _type: Article
 
 ---
-My mission is to provide a visual platform that showcases the passions of people. I create the ability for people to relive favorite memories and pasttimes through creative photographic images and media productions. There is a timeless connection that exist between everyone, our emotions, and our environment that can be captured and enjoyed for a lifetime. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cdef90f9d98198b3502cd862e2a528e728bf0dc2.jpg)
+My mission is to provide a visual platform that showcases the passions of people. I desire to provide the ability for people to relive favorite memories and pasttimes through creative photographic images and media productions. There is a timeless connection that exist between everyone, our emotions, and our environment that can be captured and enjoyed for a lifetime. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cdef90f9d98198b3502cd862e2a528e728bf0dc2.jpg)

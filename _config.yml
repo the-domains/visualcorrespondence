@@ -1,8 +1,4 @@
-favicon: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+name: Visuals by Najee
 opengraph:
   image: null
   type: null
@@ -23,7 +19,7 @@ purpose: []
 color:
   saturation: 0.7062299
   brandStrength: 0.6299677
-  lightness: 0.7126746
+  lightness: 0.6267455
   brandColors:
     - '#EFEFEF'
     - '#222222'
@@ -32,9 +28,13 @@ color:
     - '#804245'
   rhythmicContrast: 0.3227712
 typography_spectrum: 0.5461869
-layout_spectrum: 0.2918822562787682
+cta:
+  bucket: null
+  version: null
+  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
-name: Visuals by Najee
+favicon: null
+layout_spectrum: 0.2918822562787682

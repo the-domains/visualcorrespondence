@@ -1,8 +1,4 @@
-favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+name: Visuals by Najee
 opengraph:
   image: null
   type: null
@@ -21,20 +17,24 @@ collections:
       path: '/:title/'
 purpose: []
 color:
-  saturation: 0.7062299
+  saturation: 0.4914071
   brandStrength: 0.6299677
-  lightness: 0.4581096
+  lightness: 0.4946294
   brandColors:
     - '#EFEFEF'
     - '#222222'
     - '#5D6A73'
     - '#98AAB8'
     - '#804245'
-  rhythmicContrast: 0.3227712
+  rhythmicContrast: 0.4924812
 typography_spectrum: 0.5461869
-layout_spectrum: 0.2918822562787682
 cta:
   bucket: null
   version: null
   domain: null
-name: Visuals by Najee
+layout_spectrum: 0.2918822562787682
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null

@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Hello! My name is Najee Rashad. Thank you for visiting my website. I'm a photographer based in Dallas, Texas. I'm originally from Oakland, California."
-datePublished: '2016-04-20T09:42:27.162Z'
-dateModified: '2016-04-20T09:42:25.922Z'
+datePublished: '2016-04-20T10:17:05.473Z'
+dateModified: '2016-04-20T10:17:05.172Z'
 title: ''
 author:
   - name: ''

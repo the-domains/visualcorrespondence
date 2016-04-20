@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'My mission is to provide people a visual platform to showcase their passions. I want people to have the ability to relive their favorite memories and pasttimes through creative photographic images and media productions. There is a timeless connection that exist between everyone, our emotions, and our environment that can be captured and enjoyed for a lifetime. '
-datePublished: '2016-04-20T14:05:42.612Z'
-dateModified: '2016-04-20T14:05:35.279Z'
+datePublished: '2016-04-20T14:13:19.388Z'
+dateModified: '2016-04-20T14:05:51.261Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-20-it-can-be-a-moment-between-you-and-your-significant-other-.md

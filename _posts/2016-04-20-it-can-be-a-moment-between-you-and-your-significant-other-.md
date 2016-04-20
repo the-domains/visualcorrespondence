@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-20T14:05:11.838Z'
-dateModified: '2016-04-20T14:05:01.385Z'
+description: 'My mission is to provide people a visual platform to showcase their passions. I want people to have the ability to relive their favorite memories and pasttimes through creative photographic images and media productions. There is a timeless connection that exist between everyone, our emotions, and our environment that can be captured and enjoyed for a lifetime. '
+datePublished: '2016-04-20T14:05:42.612Z'
+dateModified: '2016-04-20T14:05:35.279Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-20-it-can-be-a-moment-between-you-and-your-significant-other-.md
@@ -22,4 +22,4 @@ url: afb422e1-094b-4234-8cdf-15a2eb81dd32/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/18288171-0120-4a79-9b55-c3067ac9479b.jpg)
+My mission is to provide people a visual platform to showcase their passions. I want people to have the ability to relive their favorite memories and pasttimes through creative photographic images and media productions. There is a timeless connection that exist between everyone, our emotions, and our environment that can be captured and enjoyed for a lifetime. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/18288171-0120-4a79-9b55-c3067ac9479b.jpg)

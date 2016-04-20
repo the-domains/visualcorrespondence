@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Visuals by Najee]]></title>
-        <description><![CDATA[Visuals by Najee]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Visual Correspondence]]></title>
+        <description><![CDATA[Visual Correspondence]]></description>
+        <link>https://thegrid.ai/visualcorrespondence/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 08:13:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Apr 2016 08:55:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/visualcorrespondence/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>It can be a moment between you and your significant other .</p>]]></description>
+            <link>https://thegrid.ai/visualcorrespondence/it-can-be-a-moment-between-you-and-your-significant-other-/index.html</link>
+            <guid isPermaLink="false">afb422e1-094b-4234-8cdf-15a2eb81dd32</guid>
+            <pubDate>Wed, 20 Apr 2016 08:54:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/05cc4cb9-2fd2-47be-a453-2ea0e205a6ad.jpg">]]></description>
-            <link>undefinedmy-mission-is-to-provide-people-the-ability-to-relive-their/index.html</link>
+            <link>https://thegrid.ai/visualcorrespondence/my-mission-is-to-provide-people-the-ability-to-relive-their/index.html</link>
             <guid isPermaLink="false">96ed8689-a8ad-4614-a5e8-d18d51edbcd9</guid>
             <pubDate>Wed, 20 Apr 2016 08:13:26 GMT</pubDate>
         </item>

@@ -1,8 +1,4 @@
-favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+name: Visuals by Najee
 opengraph:
   image: null
   type: null
@@ -31,10 +27,14 @@ color:
     - '#A3ADB6'
     - '#DFB1A6'
   rhythmicContrast: 0.4924812
-typography_spectrum: 0.5461869
+typography_spectrum: 0.8254564
+layout_spectrum: 0.2918822562787682
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.2918822562787682
-name: Visuals by Najee
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null

@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'My mission is to provide a visual platform that to showcases the passions of people. I create the ability for people to relive favorite memories and pasttimes through creative photographic images and media productions. There is a timeless connection that exist between everyone, our emotions, and our environment that can be captured and enjoyed for a lifetime. '
-datePublished: '2016-04-20T14:23:25.006Z'
-dateModified: '2016-04-20T14:23:08.425Z'
+datePublished: '2016-04-20T14:25:08.618Z'
+dateModified: '2016-04-20T14:23:33.962Z'
 title: ''
 author:
   - name: ''

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Visual Correspondence]]></title>
-        <description><![CDATA[Visual Correspondence]]></description>
+        <title><![CDATA[NajeeRashad]]></title>
+        <description><![CDATA[NajeeRashad]]></description>
         <link>https://thegrid.ai/visualcorrespondence/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 14:41:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2016 18:31:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/visualcorrespondence/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/visualcorrespondence/hello-my-name-is-najee-rashad-thank-you-for-visiting-my-we/index.html</link>
             <guid isPermaLink="false">96ed8689-a8ad-4614-a5e8-d18d51edbcd9</guid>
             <pubDate>Wed, 20 Apr 2016 14:18:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cdef90f9d98198b3502cd862e2a528e728bf0dc2.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/visualcorrespondence/afb422e1-094b-4234-8cdf-15a2eb81dd32/index.html</link>
-            <guid isPermaLink="false">afb422e1-094b-4234-8cdf-15a2eb81dd32</guid>
-            <pubDate>Wed, 20 Apr 2016 14:41:22 GMT</pubDate>
         </item>
     </channel>
 </rss>

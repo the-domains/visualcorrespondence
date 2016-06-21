@@ -1,40 +1,40 @@
-name: Visual Correspondence
-favicon: null
-layout_spectrum: 0.27281
-typography_spectrum: 0.53663
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+layout_spectrum: 0.27281
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  domain: null
 color:
+  saturation: 0.3125
+  brandStrength: 0
+  rhythmicContrast: 0.4924812
   brandColors:
     - '#C2D8E3'
     - '#1F1F1F'
     - '#65666A'
     - '#A3ADB6'
     - '#DFB1A6'
-  brandStrength: 0
   lightness: 0.4946294
-  saturation: 0.3125
-  rhythmicContrast: 0.4924812
 purpose: []
+favicon: null
+name: Visual Correspondence
+typography_spectrum: 0.53663

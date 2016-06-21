@@ -4,7 +4,7 @@
         <description><![CDATA[NajeeRashad]]></description>
         <link>https://thegrid.ai/visualcorrespondence/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 18:31:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2016 18:35:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/visualcorrespondence/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/visualcorrespondence/hello-my-name-is-najee-rashad-thank-you-for-visiting-my-we/index.html</link>
             <guid isPermaLink="false">96ed8689-a8ad-4614-a5e8-d18d51edbcd9</guid>
             <pubDate>Wed, 20 Apr 2016 14:18:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/07beb094-69fc-49a3-8ae0-ba5f5fb66722.jpg">]]></description>
+            <link>https://thegrid.ai/visualcorrespondence/my-mission-is-to-provide-a-visual-platform-that-showcases-th/index.html</link>
+            <guid isPermaLink="false">afb422e1-094b-4234-8cdf-15a2eb81dd32</guid>
+            <pubDate>Tue, 21 Jun 2016 18:35:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: Visual Correspondence
 opengraph:
   image: null
   type: null
@@ -18,11 +16,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.27281
-cta:
-  bucket: null
-  version: null
-  domain: null
+purpose: []
 color:
   saturation: 0.3125
   brandStrength: 0
@@ -34,7 +28,13 @@ color:
     - '#A3ADB6'
     - '#DFB1A6'
   lightness: 0.4946294
-purpose: []
-favicon: null
-name: Visual Correspondence
 typography_spectrum: 0.53663
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
